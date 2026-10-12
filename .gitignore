@@ -1,0 +1,14 @@
+# Data - too large for GitHub, shared separately
+data/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS
+Thumbs.db
+desktop.ini
